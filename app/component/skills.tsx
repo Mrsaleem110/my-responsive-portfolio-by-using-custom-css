@@ -31,6 +31,9 @@ const Skill = () => {
         <li>
           FIGMA
         </li>
+        <li>
+          PYTHON
+        </li>
       </ul>
     </div>
     </div>
